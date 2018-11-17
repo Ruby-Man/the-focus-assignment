@@ -6,8 +6,12 @@ div {
    text-align: center;
 }
 p {
-   font-size: 36px;
+   font-size: 30px;
    font-family: raleway;
    font-weight: lighter;
+   color: black;
+   text-align: center;
+   margin-top: 30px
+}
 
 }
