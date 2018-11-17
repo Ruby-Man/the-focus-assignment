@@ -1,6 +1,9 @@
-h1 {
+div {
    font-size: 60px;
    font-family: pacifico;
+   color: black;
+   margin-bottom: 1em;
+   text-align: center;
 }
 p {
    font-size: 36px;
