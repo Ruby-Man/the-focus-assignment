@@ -190,3 +190,10 @@ header {
 #p6 strong{
    font-weight: bold;
 }
+.clsninthimg{
+   position: absolute;
+   top: 1650px;
+   left:0px;
+   width:1600px;
+   height:318px;
+}
