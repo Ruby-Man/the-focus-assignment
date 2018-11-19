@@ -221,3 +221,16 @@ header {
   width: 1602px;
   height: 139px;
 }
+#p8{
+   word-spacing: 0em;
+   position: absolute;
+   left: 440px;
+   top:35px;
+   font-size: 21px;
+   font-family: Helvetica;
+   color: grey;
+
+}
+#p8 b{
+   word-spacing: 2em;
+}
