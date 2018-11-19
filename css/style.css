@@ -39,10 +39,29 @@ header {
 }
 
 h2 {
+h2{
    font-size: 30px;
    font-weight: bold;
    font-family: raleway;
+}
+h2:first-child {
    position: absolute;
    top: 740px;
-   left: 80px;
+   left: 145px;
+}
+h2:nth-child(2){
+   position: absolute;
+   top: 910px;
+   left: 145px;
+}
+h2:nth-child(3){
+   position:absolute;
+   top: 740px;
+   right: 240px;
+}
+h2:last-child{
+   position: absolute;
+   top: 910px;
+   right: 115px;
+}
 }
