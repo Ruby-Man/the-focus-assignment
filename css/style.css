@@ -209,3 +209,8 @@ header {
    font-size: 21px;
    color: grey;
 }
+#icons{
+   position: absolute;
+   top: 2150px;
+   left: 565px;
+}
