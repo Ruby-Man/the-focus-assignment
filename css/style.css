@@ -197,3 +197,15 @@ header {
    width:1600px;
    height:318px;
 }
+#sayhi{
+   position: relative;
+   padding-top: 430px;
+   font-size: 32px;
+   font-family: Raleway;
+}
+#p7{
+   position: relative;
+   padding-top: 10px;
+   font-size: 21px;
+   color: grey;
+}
