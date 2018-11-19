@@ -118,3 +118,60 @@ header {
   width: 1603px;
   height: 427px;
 }
+#app{
+  font-size: 22px;
+  font-family: "Raleway";
+  color: rgb(34, 34, 34);
+  font-weight: bold;
+  line-height: 0.818;
+  position: absolute;
+  left: 165px;
+  top: 55px;
+}
+#p5{
+   font-size: 15px;
+   color: grey;
+   text-align: left;
+   max-width: 500px;
+   position: absolute;
+   left:165px;
+   top: 70px;
+   word-spacing: 2px;
+   line-height: 1.7em;
+}
+.clsthirdimg{
+   position: absolute;
+   left: 165px;
+   top: 25px;
+}
+.clsfourthimg{
+   position: absolute;
+   left: 245px;
+   top: 25px;
+}
+.clsfifthimg{
+   position: absolute;
+   left: 325px;
+   top: 25px;
+}
+.clssixthimg{
+   width: 500px;
+   height: 307px;
+   position: absolute;
+   left: 920px;
+   bottom: 70px;
+}
+.clsseventhimg{
+   width: 376px;
+   height: 44px;
+   position: absolute;
+   left: 1020px;
+   bottom: 90px;
+}
+.clseighthimg{
+   width: 76px;
+   height: 43px;
+   position: absolute;
+   left: 940px;
+   bottom: 90px;
+}
