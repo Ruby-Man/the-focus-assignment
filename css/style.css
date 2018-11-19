@@ -21,8 +21,6 @@ p {
 }
 
 header {
-   width: 100vw;
-   height: 100vh;
    background: url('file:///Users/Ruby/Documents/Fall%202018/WEB%20DESIGN/the-focus-assignment/img/large-banner-image.png');
    background-repeat: no-repeat;
    background-position: center;
