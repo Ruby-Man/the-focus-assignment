@@ -106,3 +106,11 @@ header {
    position: absolute;
    left: 1000px;
 }
+#container {
+  background-color: rgb(227, 227, 227);
+  position: absolute;
+  left: -2px;
+  top: 1196px;
+  width: 1603px;
+  height: 427px;
+}
