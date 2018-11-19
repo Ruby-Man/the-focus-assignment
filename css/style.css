@@ -38,30 +38,71 @@ header {
    left: 500px;
 }
 
-h2 {
-h2{
-   font-size: 30px;
+#great{
+   font-size: 20px;
    font-weight: bold;
    font-family: raleway;
-}
-h2:first-child {
    position: absolute;
-   top: 740px;
-   left: 145px;
+   top: 750px;
+   left: 200px;
 }
-h2:nth-child(2){
+#p1{
+   font-size: 15px;
+   color: grey;
+   text-align: justify;
+   margin-top: 90px;
+   max-width: 350px;
+   position: absolute;
+   left: 200px;
+}
+#another{
+   font-size: 20px;
+   font-weight: bold;
+   font-family: raleway;
    position: absolute;
    top: 910px;
-   left: 145px;
+   left: 200px;
 }
-h2:nth-child(3){
-   position:absolute;
+#p2{
+   font-size: 15px;
+   color: grey;
+   text-align: justify;
+   margin-top: 260px;
+   max-width: 350px;
+   position: absolute;
+   left: 200px;
+}
+#great2{
+   font-size: 20px;
+   font-weight: bold;
+   font-family: raleway;
+   position: absolute;
    top: 740px;
-   right: 240px;
+   left: 1000px;
 }
-h2:last-child{
+#p3{
+   font-size: 15px;
+   color: grey;
+   text-align: justify;
+   margin-top: 90px;
+   max-width: 350px;
+   position: absolute;
+   left: 1000px;
+}
+#another2{
+   font-size: 20px;
+   font-weight: bold;
+   font-family: raleway;
    position: absolute;
    top: 910px;
-   right: 115px;
+   left: 1000px;
 }
+#p4 {
+   font-size: 15px;
+   color: grey;
+   text-align: justify;
+   margin-top: 260px;
+   max-width: 350px;
+   position: absolute;
+   left: 1000px;
 }
