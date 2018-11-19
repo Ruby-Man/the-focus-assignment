@@ -172,3 +172,21 @@ header {
    left: 940px;
    bottom: 90px;
 }
+#quote {
+   position: absolute;
+   margin-top: 970px;
+   margin-left: 250px;
+   font-family: raleway;
+   font-size: 32px;
+}
+#p6{
+   position: relative;
+   padding-top: 1030px;
+   margin-bottom: 20px;
+   text-align: center;
+   font-family: Helvetica;
+   font-size: 19px;
+}
+#p6 strong{
+   font-weight: bold;
+}
