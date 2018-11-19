@@ -2,14 +2,13 @@ div {
    font-size: 60px;
    font-family: pacifico;
    color: black;
-   margin-bottom: 1em;
    text-align: center;
 }
 
 img {
    width: 60px;
    height: 60px;
-   margin-top: 200px
+   margin-top: 200px;
 }
 p {
    font-size: 30px;
