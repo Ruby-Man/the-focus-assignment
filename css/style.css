@@ -234,3 +234,11 @@ header {
 #p8 b{
    word-spacing: 2em;
 }
+#active{
+   position: absolute;
+   top:1730px;
+   left:914px;
+   width: 80px;
+   height: 80px;
+
+}
