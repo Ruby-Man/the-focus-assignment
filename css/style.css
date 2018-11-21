@@ -278,5 +278,12 @@ header {
    left:914px;
    width: 80px;
    height: 80px;
-
+}
+.cursorimg{
+   position: absolute;
+   width: 17px;
+   height: 19px;
+   top: 620px;
+   left: 820px;
+}
 }
