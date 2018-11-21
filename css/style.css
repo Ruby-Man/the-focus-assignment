@@ -234,6 +234,36 @@ header {
 #p8 b{
    word-spacing: 2em;
 }
+
+.clssixteenthimg{
+     position: absolute;
+     left: 700px;
+     top: 693px;
+     width: 26px;
+     height: 26px;
+}
+
+.clseighteenthimg{
+   position: absolute;
+   left: 808px;
+   top: 608px;
+   width: 26px;
+   height: 26px;
+}
+.clsseventeenthimg{
+   position:absolute;
+   left: 700px;
+   top: 500px;
+   width: 26px;
+   height: 26px;
+}
+.clsnineteenthimg{
+   position: absolute;
+   left: 808px;
+   top: 400px;
+   width: 26px;
+   height: 26px;
+}
 #active{
    position: absolute;
    top:1730px;
