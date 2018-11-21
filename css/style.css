@@ -286,4 +286,11 @@ header {
    top: 620px;
    left: 820px;
 }
+.line{
+   position: absolute;
+   width: 137px;
+   height: 112px;
+   top: 620px;
+   left: 820px;
+}
 }
