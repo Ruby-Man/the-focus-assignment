@@ -264,6 +264,14 @@ header {
    width: 26px;
    height: 26px;
 }
+.clstwentyimg{
+  position: absolute;
+  left: 865px;
+  top: 825px;
+  width: 18px;
+  height: 20px;
+  z-index: 104;
+}
 #active{
    position: absolute;
    top:1730px;
