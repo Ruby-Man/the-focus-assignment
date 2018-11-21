@@ -293,4 +293,9 @@ header {
    top: 620px;
    left: 820px;
 }
+.cursor{
+   position: relative;
+   left: 180px;
+   width: 17px;
+   height: 19px;
 }
