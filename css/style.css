@@ -4,7 +4,7 @@ body {
 
 div {
    font-size: 60px;
-   font-family: pacifico;
+   font-family: pacifico, sans-serif;
    color: black;
    text-align: center;
 }
@@ -17,8 +17,8 @@ img {
 
 p {
    font-size: 30px;
-   font-family: raleway;
-   font-weight: lighter;
+   font-family: raleway, sans-serif;
+   font-weight: 300;
    color: black;
    text-align: center;
    margin-top: 30px;
@@ -43,8 +43,8 @@ header {
 
 #great {
    font-size: 20px;
-   font-weight: bold;
-   font-family: raleway;
+   font-weight: 700;
+   font-family: raleway, sans-serif;
    position: absolute;
    top: 750px;
    left: 270px;
@@ -63,8 +63,8 @@ header {
 
 #another {
    font-size: 20px;
-   font-weight: bold;
-   font-family: Raleway;
+   font-weight: 700;
+   font-family: Raleway, sans-serif;
    position: absolute;
    top: 920px;
    left: 270px;
@@ -83,8 +83,8 @@ header {
 
 #great2 {
    font-size: 20px;
-   font-weight: bold;
-   font-family: raleway;
+   font-weight: 700;
+   font-family: raleway, sans-serif;
    position: absolute;
    top: 750px;
    left: 1030px;
@@ -103,8 +103,8 @@ header {
 
 #another2 {
    font-size: 20px;
-   font-weight: bold;
-   font-family: raleway;
+   font-weight: 700;
+   font-family: raleway, sans-serif;
    position: absolute;
    top: 920px;
    left: 1030px;
@@ -131,9 +131,9 @@ header {
 
 #app {
    font-size: 22px;
-   font-family: Raleway;
+   font-family: Raleway, sans-serif;
    color: rgb(34, 34, 34);
-   font-weight: bold;
+   font-weight: 700;
    line-height: .818px;
    position: absolute;
    left: 215px;
@@ -198,7 +198,7 @@ header {
    position: absolute;
    margin-top: 970px;
    margin-left: 250px;
-   font-family: raleway;
+   font-family: raleway, sans-serif;
    font-size: 32px;
 }
 
@@ -207,13 +207,13 @@ header {
    padding-top: 1030px;
    margin-bottom: 20px;
    text-align: center;
-   font-family: Helvetica;
+   font-family: Helvetica, arial, sans-serif;
    font-size: 19px;
    left: 200px;
 }
 
 #p6 strong {
-   font-weight: bold;
+   font-weight: 700;
 }
 
 .clsninthimg {
@@ -228,7 +228,7 @@ header {
    position: relative;
    padding-top: 430px;
    font-size: 32px;
-   font-family: Raleway;
+   font-family: Raleway, sans-serif;
    left: 200px;
 }
 
@@ -255,12 +255,11 @@ header {
 }
 
 #p8 {
-   word-spacing: 0em;
    position: absolute;
    left: 440px;
    top: 35px;
    font-size: 21px;
-   font-family: Helvetica;
+   font-family: Helvetica, arial, sans-serif;
    color: grey;
 }
 
