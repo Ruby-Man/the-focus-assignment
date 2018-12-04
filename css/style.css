@@ -35,9 +35,9 @@ header {
    position: absolute;
    background-repeat: no-repeat;
    height: auto;
-   width: auto;
+   width: 450px;
    top: 200px;
-   left: 535px;
+   left: 585px;
 }
 
 #great{
