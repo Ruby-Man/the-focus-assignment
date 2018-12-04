@@ -121,12 +121,12 @@ header {
 }
 #app{
   font-size: 22px;
-  font-family: "Raleway";
+  font-family: Raleway;
   color: rgb(34, 34, 34);
   font-weight: bold;
   line-height: 0.818;
   position: absolute;
-  left: 165px;
+  left: 215px;
   top: 55px;
 }
 #p5{
