@@ -46,7 +46,7 @@ header {
    font-family: raleway;
    position: absolute;
    top: 750px;
-   left: 200px;
+   left: 270px;
 }
 #p1{
    font-size: 15px;
@@ -55,7 +55,7 @@ header {
    margin-top: 60px;
    max-width: 350px;
    position: absolute;
-   left: 200px;
+   left: 270px;
    line-height: 1.5em;
 }
 #another{
@@ -63,8 +63,8 @@ header {
    font-weight: bold;
    font-family: raleway;
    position: absolute;
-   top: 910px;
-   left: 200px;
+   top: 920px;
+   left: 270px;
 }
 #p2{
    font-size: 15px;
@@ -73,7 +73,7 @@ header {
    margin-top: 230px;
    max-width: 350px;
    position: absolute;
-   left: 200px;
+   left: 270px;
    line-height: 1.5em;
 }
 #great2{
@@ -81,8 +81,8 @@ header {
    font-weight: bold;
    font-family: raleway;
    position: absolute;
-   top: 740px;
-   left: 1000px;
+   top: 750px;
+   left: 1030px;
 }
 #p3{
    font-size: 15px;
@@ -91,7 +91,7 @@ header {
    margin-top: 60px;
    max-width: 350px;
    position: absolute;
-   left: 1000px;
+   left: 1030px;
    line-height: 1.5em;
 }
 #another2{
@@ -99,8 +99,8 @@ header {
    font-weight: bold;
    font-family: raleway;
    position: absolute;
-   top: 910px;
-   left: 1000px;
+   top: 920px;
+   left: 1030px;
 }
 #p4 {
    font-size: 15px;
@@ -109,7 +109,7 @@ header {
    margin-top: 230px;
    max-width: 350px;
    position: absolute;
-   left: 1000px;
+   left: 1030px;
    line-height: 1.5em;
 }
 #container {
