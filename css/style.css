@@ -135,45 +135,45 @@ header {
    text-align: left;
    max-width: 500px;
    position: absolute;
-   left:165px;
+   left: 215px;
    top: 70px;
    word-spacing: 2px;
    line-height: 1.7em;
 }
 .clsthirdimg{
    position: absolute;
-   left: 165px;
+   left: 215px;
    top: 25px;
 }
 .clsfourthimg{
    position: absolute;
-   left: 245px;
+   left: 295px;
    top: 25px;
 }
 .clsfifthimg{
    position: absolute;
-   left: 325px;
+   left: 375px;
    top: 25px;
 }
 .clssixthimg{
    width: 500px;
    height: 307px;
    position: absolute;
-   left: 920px;
+   left: 890px;
    bottom: 70px;
 }
 .clsseventhimg{
    width: 376px;
    height: 44px;
    position: absolute;
-   left: 1020px;
+   left: 1000px;
    bottom: 90px;
 }
 .clseighthimg{
    width: 76px;
    height: 43px;
    position: absolute;
-   left: 940px;
+   left: 910px;
    bottom: 90px;
 }
 #quote {
