@@ -253,8 +253,8 @@ header {
 
 .clseighteenthimg{
    position: absolute;
-   left: 808px;
-   top: 608px;
+   left: 850px;
+   top: 595px;
    width: 26px;
    height: 26px;
 }
@@ -267,7 +267,7 @@ header {
 }
 .clsnineteenthimg{
    position: absolute;
-   left: 808px;
+   left: 850px;
    top: 400px;
    width: 26px;
    height: 26px;
@@ -291,15 +291,15 @@ header {
    position: absolute;
    width: 17px;
    height: 19px;
-   top: 620px;
-   left: 820px;
+   top: 610px;
+   left: 860px;
 }
 .line{
    position: absolute;
    width: 137px;
    height: 112px;
    top: 620px;
-   left: 820px;
+   left: 865px;
 }
 .cursor{
    position: absolute;
