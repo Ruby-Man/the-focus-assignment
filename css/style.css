@@ -298,8 +298,8 @@ header {
    left: 820px;
 }
 .cursor{
-   position: relative;
-   left: 180px;
+   position: absolute;
+   left: 950px;
    width: 17px;
    height: 19px;
 }
